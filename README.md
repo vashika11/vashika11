@@ -16,8 +16,6 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vashikatyagi11)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@vashikatyagi11)
-
 - 📫 How to reach me **vashikatyagi11@gmail.com**
 
 
