@@ -11,7 +11,7 @@
   <a href="https://github.com/vashika11"><img src="https://komarev.com/ghpvc/?username=vashika11&style=for-the-badge&color=0bacfd" alt="Profile Views"/></a>
 </div>
 
-<img align="center" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF"/>
+<img align="center" width="300" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" alt="Coding GIF"/>
 
 ## 💻 Tech Universe
 
