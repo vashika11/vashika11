@@ -1,37 +1,34 @@
-name: Generate snake animation
+name: Generate Butterfly Animation
 
 on:
-  schedule: # Execute every 12 hours
+  schedule:
+    # runs every 12 hours
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
 
-  push:
-    branches:
-      - master
-
 jobs:
-  generate:
+  butterfly:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
       - name: 🧾 Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🐍 Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: 🦋 Generate butterfly animation
+        uses: jakejarvis/contribution-butterfly@main
         with:
-          github_user_name: vashika11
-          outputs: |
-            dist/snake.svg?palette=github-dark
-            dist/snake-custom.svg?color_snake=#ff9900,#ffaa33,#ffcc66&color_dots=#ffcc00,#ff9966,#cc6699,#9966cc,#663399
+          username: "vashika11"
+          output: "dist/butterfly.svg"
+          theme: "neon-dark"
+          butterfly_colors: "#ff00ff,#00ffff,#ff66cc,#cc33ff"
+          glow_strength: 1.4
+          butterfly_count: 28
+          wing_style: "cute"
 
-      - name: 🚀 Push snake.svg to the output branch
+      - name: 🚀 Push butterfly.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-       
