@@ -15,7 +15,7 @@
 
 ## 💻 Tech Universe
 
-
+![My Skills](https://skillicons.dev/icons?i=py,js,html,css,flask,opencv,mongodb,aws,github,powershell,figma,ps,xd&perline=11)
 
 ## 📈 GitHub Analytics
 
