@@ -15,7 +15,7 @@
 
 ## 💻 Tech Universe
 
-(https://skillicons.dev/icons?i=python,html,javascript,go,mongodb,mysql,flask,aws,pycharm,github,linkedin,figma,ps,xd&perline=11)
+https://skillicons.dev/icons?i=python,html,javascript,go,mongodb,mysql,flask,aws,pycharm,github,linkedin,figma,ps,xd&perline=11
 
 
 ## 📈 GitHub Analytics
