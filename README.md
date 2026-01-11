@@ -65,14 +65,11 @@
 
 <div align="center">
   <sub>🚀 <strong>Built with passion, deployed with purpose</strong> 🚀</sub><br>
-  <sub>This profile is continuously updated with new projects and achievements</sub>
+  <sub>This profile is continuously updated with new projects</sub>
 </div>
 
 <!-- 
-  🎮 Easter Egg Found! 🎮
-  ====================================
-  "The best way to predict the future is to invent it."
-  - Alan Kay
+
   
   Thanks for reading the source! If you're here, you probably appreciate
   good code and attention to detail. Let's connect and build something amazing!
