@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0BACFD,100:2575FC&height=120&section=footer&text=Thanks%20for%20visiting%20my%20digital%20space!&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:4B5563&height=130&section=footer&text=Appreciate%20your%20visit!&fontSize=30&fontColor=FFFFFF&animation=fadeIn"alt="Footer"/>
 </div>
 
 <div align="center">
