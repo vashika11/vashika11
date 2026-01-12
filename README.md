@@ -1,9 +1,9 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=0BACFD&center=true&vCenter=true&width=435&lines=Hello+I'm+Vashika+Tyagi;CSE+Student;Welcome+to+my+digital+garden!" alt="Typing SVG" />
-  
-  <img src="https://raw.githubusercontent.com/vashika11/vashika11/main/assets/header.gif" width="100%" height="auto"/>
 </div>
+<div align="center">
+ <img src="https://raw.githubusercontent.com/vashika11/vashika11/main/assets/header.gif" width="100%" height="auto"/></div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vashikatyagi11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
