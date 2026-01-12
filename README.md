@@ -10,8 +10,8 @@
   <a href="mailto:vashikatyagi11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/vashika11"><img src="https://komarev.com/ghpvc/?username=vashika11&style=for-the-badge&color=0bacfd" alt="Profile Views"/></a>
 </div>
-
-<img align="center" width="300" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" alt="Coding GIF"/>
+<div align="center">
+<img align="center" width="300" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" alt="Coding GIF"/></div>
 
 ## 💻 Tech Universe
 
