@@ -17,12 +17,12 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,html,css,flask,opencv,mongodb,aws,github,powershell,figma,ps,xd&perline=11)
 
-## 📈 GitHub Analytics
+<!-- ## 📈 GitHub Analytics
 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vashika11&custom_title=Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=0BACFD&point=0BACFD" alt="Activity Graph"/>
-</div>
+</div> -->
 
 
 ## 🤝 Let's Build Something Amazing Together
